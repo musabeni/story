@@ -1,1 +1,1 @@
-This is my first editor to open with terminal
+This is my first editor to open with terminal. Added new branch
